@@ -1,0 +1,1 @@
+<settings><overlap>48</overlap><host>localhost</host><port>8090</port><root>D:\LLM\data</root><collection>test</collection><embeddingPort>8000</embeddingPort><embeddingHost>localhost</embeddingHost><size>480</size><embedding_host>localhost</embedding_host><embedding_port>8000</embedding_port></settings>
